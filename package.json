@@ -1,0 +1,30 @@
+{
+  "name": "pepe-animation-library",
+  "version": "2.1.1",
+  "description": "A small library providing easy-to-use animations for web projects.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alekseev92/micro-animation-library"
+  },
+  "keywords": [
+    "animations",
+    "web",
+    "gsap",
+    "animejs",
+    "AOS"
+  ],
+  "author": "Maxim Vetrov",
+  "license": "MIT",
+  "dependencies": {
+    "gsap": "^3.6.0",
+    "animejs": "^3.2.1",
+    "aos": "^2.3.4",
+    "@types/gsap": "^3.6.1",
+    "scrollmagic": "^2.0.8",
+    "popmotion": "^8.7.1"
+  }
+}
